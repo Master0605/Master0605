@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Master0605
+# I'm Master0605
 
 ### Backend & System Developer · Computer Science Student · Tanzania 🇹🇿
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```python
 class Master65:
@@ -32,17 +32,17 @@ I'm a Computer Science student passionate about programming and building backend
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
-- 🏫 **Attendance & Institutional Systems** — building tools like a School Attendance System to automate tracking and reporting for schools
-- 🏘️ **Property & Tenant Management** — designing systems like a Tenant Management System (TMS) to handle tenants, payments, and records
-- 🔧 **Backend Architecture** — designing clean REST APIs and scalable server-side logic
-- 🗄️ **Database Design** — structuring relational data for real-world business needs
-- 📈 **Continuous Learning** — always exploring new tools and frameworks to build better systems
+-  **Attendance & Institutional Systems** — building tools like a School Attendance System to automate tracking and reporting for schools
+-  **Property & Tenant Management** — designing systems like a Tenant Management System (TMS) to handle tenants, payments, and records
+-  **Backend Architecture** — designing clean REST APIs and scalable server-side logic
+-  **Database Design** — structuring relational data for real-world business needs
+-  **Continuous Learning** — always exploring new tools and frameworks to build better systems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
