@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ##  About Me
 
 ```python
@@ -26,11 +24,8 @@ class Master65:
         self.projects      = ["School Attendance System", "Tenant Management System (TMS)"]
         self.focus         = ["REST APIs", "Database Design", "Attendance Systems", "Tenant/Property Management"]
         self.mantra        = "Solve real problems, one system at a time."
-```
 
 I'm a Computer Science student passionate about programming and building backend systems that make everyday operations easier — from tracking school attendance to managing tenants and properties. I enjoy turning messy manual processes into clean, reliable software.
-
----
 
 ##  Focus Areas
 
